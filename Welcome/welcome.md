@@ -33,3 +33,7 @@ But the best way to shatter that illusion is to actively recall and apply what w
 # **`How Can We Build Effective Learning Habits and Work Smarter?`**
 
 1. **Pace Yourself :: Learning to code is a Marathon not a Sprint.**
+2. **Routine is Your Friend**
+3. **Pomodoro Technique**
+
+- Promodoro is an _italian word for tomato._
