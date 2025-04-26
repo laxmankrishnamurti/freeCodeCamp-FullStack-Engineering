@@ -54,3 +54,7 @@ This is an example of linking to a favicon. A favicon icon is a small icon typic
 ## **HTML Boilerplate Code**
 
 An HTML Boilerplate is like a ready-made template for our pages. A boilerplate includes basic structure and essential elements in every HTML document needs.
+
+## **What is UTF-8 Character Encoding, and Why is it needed?**
+
+UTF-8, or UCS Transformation Format 8, is a standardization character encoding widely used on the web. Character Encoding is the method computers used to store characters as data.
